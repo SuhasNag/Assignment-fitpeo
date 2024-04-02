@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Assignment-fitpeo/static/css/main.1bf4ca5d.css",
+    "main.js": "/Assignment-fitpeo/static/js/main.a553a4fd.js",
+    "static/media/logo_blue.svg": "/Assignment-fitpeo/static/media/logo_blue.37bafcad68469e4db3a9df549cceb814.svg",
+    "index.html": "/Assignment-fitpeo/index.html",
+    "main.1bf4ca5d.css.map": "/Assignment-fitpeo/static/css/main.1bf4ca5d.css.map",
+    "main.a553a4fd.js.map": "/Assignment-fitpeo/static/js/main.a553a4fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf4ca5d.css",
+    "static/js/main.a553a4fd.js"
+  ]
+}
